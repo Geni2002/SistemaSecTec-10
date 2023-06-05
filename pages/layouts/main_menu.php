@@ -33,18 +33,7 @@
               <li><a href="#" class="menu-item">Unidad de medida</a></li>
             </ul>
           </li>
-          <li class=" nav-item"><a href="#"><i class="icon-briefcase4"></i><span class="menu-title">Ventas</span></a>
-            <ul class="menu-content">
-              <li><a href="#" class="menu-item">Realizar venta</a></li>
-              <li><a href="#" class="menu-item">Lista de ventas</a></li>
-            </ul>
-          </li>
-          <li class=" nav-item"><a href="#"><i class="icon-ios-cart-outline"></i><span class="menu-title">Compras</span></a>
-            <ul class="menu-content">
-              <li><a href="#" class="menu-item">Realizar compras</a></li>
-              <li><a href="#" class="menu-item">Lista de compras</a></li>
-            </ul>
-          </li>
+          
 
           <li class=" navigation-header"><span>Informes</span>
           </li>
