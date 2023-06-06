@@ -1,6 +1,6 @@
 <?php
       
-require "model/usuario.php";
+require "model/Usuario.php";
 
 $usuario = new Usuario();
 

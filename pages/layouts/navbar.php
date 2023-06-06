@@ -19,7 +19,9 @@
               <li class="dropdown dropdown-user nav-item"><a href="#" data-toggle="dropdown" class="dropdown-toggle nav-link dropdown-user-link"><span class="avatar avatar-online"><img src="../app-assets/images/portrait/small/avatar-s-1.png" alt="avatar"><i></i></span><span class="user-name"></span></a>
                 <div class="dropdown-menu dropdown-menu-right">
                     <a href="#" class="dropdown-item"><i class="icon-head"></i> Editar perfil</a>
-                  <div class="dropdown-divider"></div><a href="#" class="dropdown-item"><i class="icon-power3"></i>Cerrar sesión</a>
+                    <form action="../controller/UsuarioController?operador=cerrar_sesion" method="POST">
+                    <button type="submit" class="dropdown-item"><i class="icon-power3"></i>Cerrar sesión</button>
+                    </form>
                 </div>
               </li>
             </ul>
